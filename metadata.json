@@ -1,0 +1,7 @@
+{
+  "name": "BarberSaaS - Premium Grooming Management",
+  "description": "A high-performance SaaS platform for barbershops featuring professional scheduling, client management, and business analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
